@@ -12,7 +12,7 @@ __license__ = "public domain"
 __contributors__ = "see http://webpy.org/changes"
 
 import utils, db, net, wsgi, http, webapi, httpserver, debugerror
-import template, form
+import template
 
 import session
 
